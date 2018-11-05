@@ -1,0 +1,31 @@
+﻿Overview
+Context
+
+
+Build a bot to collect the most fruit
+Compete against other bot submissions
+Online game server handles competitions and scoring process
+
+
+Competition Link: https://github.com/scribd/robot-fruit-hunt
+Rules: http://fruitbots.herokuapp.com/docs/rules
+Available methods (API): http://fruitbots.herokuapp.com/api/api
+ 
+Resources
+
+
+Getting started with writing a bot: http://fruitbots.herokuapp.com/docs/writing
+
+
+Fruit Bot Tutorial - https://bournetocode.com/projects/8-CS-FruitBots/pages/1_Lesson.html
+
+
+Sandbox Environment: https://github.com/scribd/robot-fruit-hunt
+* Only works with Javascript
+
+
+Algorithm Ideas
+1. DFS - https://en.wikipedia.org/wiki/Depth-first_search
+2. BFS - https://en.wikipedia.org/wiki/Breadth-first_search
+3. Traveling Salesman - https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_travelling_salesman_problem.htm
+4. Minimax algorithm - https://en.wikipedia.org/wiki/Minimax
